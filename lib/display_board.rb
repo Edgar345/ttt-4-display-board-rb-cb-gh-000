@@ -11,5 +11,5 @@ def display_board arr
   puts "-----------"
   print " #{arr[6]} |"
   print " #{arr[7]} |"
-  puts " #{arr[8]}"
+  puts " #{arr[8]} "
 end
